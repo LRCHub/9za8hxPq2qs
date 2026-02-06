@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "レインフォール",
+  "base_artist": "ツユ",
+  "createdAt": "2026-02-06T02:14:09.718141Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "レインフォール",
+      "artist": "ツユ",
+      "has_synced": false,
+      "path": "select/pl_01_レインフォール_ツユ.txt"
+    }
+  ]
+}
